@@ -1,14 +1,14 @@
 {
     "title": "What you can borrow from Yandex frontend dev",
-    "createDate": "2013-08-19",
-    "editDate": "2013-08-21",
+    "createDate": "18-02-2013",
+    "editDate": "",
     "summary": "This article shows you how to develop an online shop web page using BEM principles in CSS, JavaScript and BEMHTML templates. Статья доступна на английском языке.",
     "thumbnail": "",
-    "author": "Андрей Кузнецов",
-    "tags": ["i-bem", "JavaScript"],
+    "author": "Варя Степанова",
+    "tags": ["bem"],
     "category": ["article"],
-    "translator": "Андрей Кузнецов",
-    "url": "/articles/yandex-frontend-dev/",
+    "translator": "",
+    "url": "/yandex-frontend-dev/",
     "type": "article",
     "slug": ""
 }

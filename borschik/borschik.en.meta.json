@@ -1,14 +1,14 @@
 {
     "title": "Borschik",
-    "createDate": "2013-08-19",
-    "editDate": "2013-08-21",
+    "createDate": "22-04-2013",
+    "editDate": "04-07-2013",
     "summary": "Borschik is a simple but powerful builder for text-based file formats.",
     "thumbnail": "",
-    "author": "Andrey Kuznetsov",
-    "tags": ["CSS", "JavaScript"],
+    "author": "Alexey Androsov",
+    "tags": ["i-bem", "bem-tools","borschik"],
     "category": ["article"],
-    "translator": "Andrey Kuznetsov",
-    "url": "/articles/borschik/",
+    "translator": "",
+    "url": "/borschik/",
     "type": "article",
     "slug": ""
 }

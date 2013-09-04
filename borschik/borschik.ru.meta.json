@@ -1,14 +1,14 @@
 {
     "title": "Borschik",
-    "createDate": "2013-08-19",
-    "editDate": "2013-08-21",
+    "createDate": "22-04-2013",
+    "editDate": "04-07-2013",
     "summary": "Borschik — простой, но мощный сборщик файлов текстовых форматов.",
     "thumbnail": "",
-    "author": "Андрей Кузнецов",
-    "tags": ["i-bem", "JavaScript"],
+    "author": "Алексей Андросов",
+    "tags": ["i-bem", "bem-tools","borschik"],
     "category": ["article"],
-    "translator": "Андрей Кузнецов",
-    "url": "/articles/borschik/",
+    "translator": "",
+    "url": "/borschik/",
     "type": "article",
     "slug": ""
 }

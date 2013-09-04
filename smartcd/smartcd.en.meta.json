@@ -1,14 +1,14 @@
 {
     "title": "smartcd: how to launch tools locally",
-    "createDate": "2013-08-19",
-    "editDate": "2013-08-21",
+    "createDate": "19-06-2013",
+    "editDate": "25-06-2013",
     "summary": "Find out how you can launch bem-tools faster right from the command line using smartcd.",
     "thumbnail": "",
-    "author": "Andrey Kuznetsov",
-    "tags": ["i-bem", "JavaScript"],
+    "author": "Sergey Belov",
+    "tags": ["tools"],
     "category": ["article"],
-    "translator": "Andrey Kuznetsov",
-    "url": "/articles/smartcd/",
+    "translator": "Aleksandra Nekhaieva",
+    "url": "/smartcd/",
     "type": "article",
     "slug": ""
 }
