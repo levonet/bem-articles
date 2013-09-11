@@ -1,10 +1,11 @@
 {
-    "firstName": "Владимир",
-    "lastName": "Варанкин",
+    "firstName": "Vladimir",
+    "lastName": "Varankin",
     "avatar": "https://1.gravatar.com/avatar/c39012d1cc028e4f4eefa6332bc21a67",
-    "github": "https://github.com/narqo",
+    "github": "narqo",
     "e-mail": ["nek.narqo@gmail.com"],
     "twitter": "tvii",
     "skype": "",
-    "info": ""
+    "info": "Lead Interface Developer, Yandex",
+    "type": "authors"
 }
