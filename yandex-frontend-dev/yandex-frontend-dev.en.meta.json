@@ -4,10 +4,10 @@
     "editDate": "30-04-2013",
     "summary": "The article sums up Yandex over 7-year experience in finding solutions for efficient frontend development.",
     "thumbnail": "",
-    "author": "Varvara Stepanova",
+    "author": ["stepanova-varvara"],
     "tags": ["BEM"],
-    "category": ["articles"],
-    "translator": "",
+    "categories": ["articles"],
+    "translator": [""],
     "url": "/yandex-frontend-dev/",
     "type": "articles",
     "slug": ""

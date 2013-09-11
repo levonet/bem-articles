@@ -4,10 +4,10 @@
     "editDate": "25-06-2013",
     "summary": "Узнайте, как с помощью smartcd можно быстрее запустить bem-tools из коммандной строки.",
     "thumbnail": "",
-    "author": "Сергей Белов",
+    "author": ["belov-sergey"],
     "tags": ["bem-tools","tools"],
-    "category": ["articles"],
-    "translator": "",
+    "categories": ["articles"],
+    "translator": [""],
     "url": "/smartcd/",
     "type": "articles",
     "slug": ""

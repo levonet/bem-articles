@@ -4,10 +4,10 @@
     "editDate": "25-06-2013",
     "summary": "Find out how you can launch bem-tools faster right from the command line using smartcd.",
     "thumbnail": "",
-    "author": "Sergey Belov",
+    "author": ["belov-sergey"],
     "tags": ["bem-tools","tools"],
-    "category": ["articles"],
-    "translator": "Aleksandra Nekhaieva",
+    "categories": ["articles"],
+    "translator": ["nekhaieva-aleksandra"],
     "url": "/smartcd/",
     "type": "articles",
     "slug": ""

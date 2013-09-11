@@ -6,8 +6,8 @@
     "thumbnail": "",
     "author": "Denis Hananein",
     "tags": ["BEM", "API"],
-    "category": ["articles"],
-    "translator": "",
+    "categories": ["articles"],
+    "translator": [""],
     "url": "/yamapsbem/",
     "type": "articles",
     "slug": ""

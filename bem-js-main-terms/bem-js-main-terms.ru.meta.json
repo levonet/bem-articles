@@ -4,10 +4,10 @@
     "editDate": "16-07-2013",
     "summary": "В стеке БЭМ-технологий есть блок i-bem библиотеки bem-bl. Его JavaScript-реализация использует предметную область БЭМ и позволяет насладиться всеми преимуществами разработки по принципам БЭМ не только программируя внешний вид компонент, но и их поведение.",
     "thumbnail": "",
-    "author": "Варя Степанова",
+    "author": ["stepanova-varvara"],
     "tags": ["i-bem", "JavaScript"],
-    "category": ["articles"],
-    "translator": "",
+    "categories": ["articles"],
+    "translator": [""],
     "url": "/bem-articles/bem-js-main-terms/",
     "type": "articles",
     "slug": ""
