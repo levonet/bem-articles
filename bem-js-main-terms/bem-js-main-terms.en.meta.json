@@ -4,10 +4,10 @@
     "editDate": "",
     "summary": "How to write client side JS using i-bem.js from bem-bl library.",
     "thumbnail": "",
-    "author": ["stepanova-varvara"],
+    "authors": ["stepanova-varvara"],
     "tags": ["i-bem", "JavaScript"],
     "categories": ["articles"],
-    "translator": ["nekhaieva-aleksandra"],
+    "translators": ["nekhaieva-aleksandra"],
     "url": "/bem-articles/bem-js-main-terms/",
     "type": "articles",
     "slug": ""

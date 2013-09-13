@@ -4,10 +4,10 @@
     "editDate": "04-07-2013",
     "summary": "Borschik — простой, но мощный сборщик файлов текстовых форматов.",
     "thumbnail": "",
-    "author": ["androsov-alexey"],
+    "authors": ["androsov-alexey"],
     "tags": ["tools","borschik"],
     "categories": ["articles"],
-    "translator": [""],
+    "translators": [""],
     "url": "/borschik/",
     "type": "articles",
     "slug": ""

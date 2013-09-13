@@ -4,10 +4,10 @@
     "editDate": "",
     "summary": "This article shows you how to develop an online shop web page using BEM principles in CSS, JavaScript and BEMHTML templates. Статья доступна на английском языке.",
     "thumbnail": "",
-    "author": ["stepanova-varvara"],
+    "authors": ["stepanova-varvara"],
     "tags": ["BEM"],
     "categories": ["articles"],
-    "translator": [""],
+    "translators": [""],
     "url": "/yandex-frontend-dev/",
     "type": "articles",
     "slug": ""

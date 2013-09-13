@@ -4,10 +4,10 @@
     "editDate": "25-08-2013",
     "summary": "A brief guide to the syntax of deps.js",
     "thumbnail": "",
-    "author": ["varankin-vladimir","bashinsky-pavel"],
+    "authors": ["varankin-vladimir","bashinsky-pavel"],
     "tags": ["bem-tools","tools"],
     "categories": ["articles"],
-    "translator": "Max Shirshin",
+    "translators": ["shirshin-maxim"],
     "url": "/deps-js-syntax/",
     "type": "articles",
     "slug": ""

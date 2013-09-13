@@ -4,10 +4,10 @@
     "editDate": "",
     "summary": "Эта статья рассказывает о том, как создать проект с использованием БЭМ-технологий.",
     "thumbnail": "",
-    "author": ["stepanova-varvara"],
+    "authors": ["stepanova-varvara"],
     "tags": ["BEM", "bem-tools","tools","i-bem"],
     "categories": ["articles"],
-    "translator": [""],
+    "translators": [""],
     "url": "/start-with-project-stub/",
     "type": "articles",
     "slug": ""
