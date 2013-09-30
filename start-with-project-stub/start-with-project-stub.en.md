@@ -666,7 +666,7 @@ It's recommended to run a local project version:
     $ ./node_modules/bem/bin/bem make
 ```
 
-<!--(Begin) Article author block-->
+<!--(Begin) Article author block
 <div class="article-author">
     <div class="article-author__photo">
         <img class="article-author__pictures" src="http://img-fotki.yandex.ru/get/5625/51437929.0/0_bf4ad_363d4605_S.png" alt="Photo Varvara Stepanova">
@@ -685,7 +685,7 @@ It's recommended to run a local project version:
         </div>
     </div>
 </div>
-<!--(End) Article author block-->
+(End) Article author block-->
 
 **Credits**<br/>
 Many thanks to [tyv](https://github.com/tyv) and

@@ -1351,7 +1351,7 @@ Please address your questions to the comminuty asking in [BEM Facebook
 group](http://www.facebook.com/groups/209713935765634/) or in Twitter
 [@bem_tw](https://twitter.com/bem_tw).
 
-<!--(Begin) Article author block-->
+<!--(Begin) Article author block
 <div class="article-author">
     <div class="article-author__photo">
         <img class="article-author__pictures" src="http://img-fotki.yandex.ru/get/5625/51437929.0/0_bf4ad_363d4605_S.png" alt="Photo Varvara Stepanova">
@@ -1370,6 +1370,6 @@ group](http://www.facebook.com/groups/209713935765634/) or in Twitter
         </div>
     </div>
 </div>
-<!--(End) Article author block-->
+(End) Article author block-->
 
 This information is also available as a talk "[BEM. What you can borrow from Yandex frontend dev](https://vimeo.com/53219242)" given at [WebConf Riga](http://webconf.lv/) at 10th November 2012.

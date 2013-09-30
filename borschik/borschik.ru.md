@@ -489,7 +489,7 @@ $ borschik freeze --input=js > freeze-info.json
 * ускорение загрузки страницы
 
 
-<!--(Begin) Article author block-->
+<!--(Begin) Article author block
 <div class="article-author">
     <div class="article-author__photo">
         <img class="article-author__pictures" src="http://img-fotki.yandex.ru/get/5646/51437929.0/0_bf0f0_64369365_S.png" alt="Фотография Алексея Андросова">
@@ -509,4 +509,4 @@ $ borschik freeze --input=js > freeze-info.json
         </div>
     </div>
 </div>
-<!--(End) Article author block-->
+(End) Article author block-->

@@ -291,7 +291,7 @@ DOM-представления, использует идею делигиров
 Об этом можно прочесть на [странице блока
 i-bem](http://bem.github.com/bem-bl/sets/common-desktop/i-bem/i-bem.ru.html).
 
-<!--(Begin) Article author block-->
+<!--(Begin) Article author block
 <div class="article-author">
     <div class="article-author__photo">
         <img class="article-author__pictures" src="http://img-fotki.yandex.ru/get/5625/51437929.0/0_bf4ad_363d4605_S.png" alt="Фотография Варвары Степановой">
@@ -311,6 +311,6 @@ i-bem](http://bem.github.com/bem-bl/sets/common-desktop/i-bem/i-bem.ru.html).
         </div>
     </div>
 </div>
-<!--(End) Article author block-->
+(End) Article author block-->
 
 Статья подготовлена по материалам выступления [Владимира Варанкина](https://github.com/narqo) «[БЭМ и JavaScript: Зачем мы написали JS-фреймворк?](http://events.yandex.ru/events/yasubbotnik/msk-sep-2012/talks/323/)» на Я.Субботнике в Москве 8 сентября 2012.

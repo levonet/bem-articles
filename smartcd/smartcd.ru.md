@@ -77,7 +77,7 @@ smartcd: running /Users/arikon/.smartcd/scripts/Users/arikon/projects/bem-www/ba
 
 Если вы используете `zsh` с включенной опцией `autocd`, раскомментируйте строку `smartcd setup prompt-hook` в `~/.smartcd_config`.
 
-<!--(Begin) Article author block-->
+<!--(Begin) Article author block
 <div class="article-author">
     <div class="article-author__photo">
         <img class="article-author__pictures" src="http://www.gravatar.com/avatar/6fa6da3a6927ded01bac659b5f1b4281.png?s=130" alt="Фотография Алексея Андросова">
@@ -97,7 +97,7 @@ smartcd: running /Users/arikon/.smartcd/scripts/Users/arikon/projects/bem-www/ba
         </div>
     </div>
 </div>
-<!--(End) Article author block-->
+(End) Article author block-->
 
 Статья подготовлена на основе оригинальной статьи «[Использование локально установленных инструментов
 из командной строки](http://clubs.ya.ru/bem/replies.xml?item_no=2231)» в Я.ру.

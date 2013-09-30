@@ -60,7 +60,7 @@
     }
 ```
 
-<!--(Begin) Article author block-->
+<!--(Begin) Article author block
 <div class="article-author">
     <div class="article-author__photo">
         <img class="article-author__pictures" src="http://img-fotki.yandex.ru/get/6434/51437929.0/0_bfef0_5d9cdb30_M.jpg" alt="Фотография Владимира Варанкина">
@@ -80,4 +80,4 @@
         </div>
     </div>
 </div>
-<!--(End) Article author block-->
+(End) Article author block-->
