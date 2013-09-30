@@ -6,7 +6,7 @@
     "thumbnail": "",
     "authors": ["stepanova-varvara"],
     "tags": ["BEM"],
-    "categories": [],
+    "categories": [{"name": "BEM", "url": "bem"}],
     "translators": [""],
     "url": "/yandex-frontend-dev/",
     "type": "articles",

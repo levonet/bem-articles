@@ -6,7 +6,7 @@
     "thumbnail": "",
     "authors": ["belov-sergey"],
     "tags": ["bem-tools","tools"],
-    "categories": [],
+    "categories": [{"name": "tools", "url": "tools"}],
     "translators": [""],
     "url": "/smartcd/",
     "type": "articles",

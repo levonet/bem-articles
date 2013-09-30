@@ -6,7 +6,7 @@
     "thumbnail": "",
     "authors": ["androsov-alexey"],
     "tags": ["tools","borschik"],
-    "categories": [],
+    "categories": [{"name": "tools", "url": "tools"}],
     "translators": [""],
     "url": "/borschik/",
     "type": "articles",

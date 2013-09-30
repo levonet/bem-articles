@@ -6,7 +6,7 @@
     "thumbnail": "",
     "authors": ["hananein-denis"],
     "tags": ["BEM", "API"],
-    "categories": [],
+    "categories": [{"name": "BEM", "url": "bem"}],
     "translators": [""],
     "url": "/yamapsbem/",
     "type": "articles",

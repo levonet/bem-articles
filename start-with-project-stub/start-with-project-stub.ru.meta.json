@@ -6,7 +6,7 @@
     "thumbnail": "",
     "authors": ["stepanova-varvara"],
     "tags": ["BEM", "bem-tools","tools","i-bem"],
-    "categories": [],
+    "categories": [{"name": "BEM", "url": "bem"}],
     "translators": [""],
     "url": "/start-with-project-stub/",
     "type": "articles",

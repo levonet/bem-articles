@@ -6,7 +6,7 @@
     "thumbnail": "",
     "authors": ["stepanova-varvara"],
     "tags": ["i-bem", "JavaScript"],
-    "categories": [],
+    "categories": [{"name": "i-bem", "url": "i-bem"}],
     "translators": ["nekhaieva-aleksandra"],
     "url": "/bem-articles/bem-js-main-terms/",
     "type": "articles",
