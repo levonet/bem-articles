@@ -6,9 +6,9 @@
     "thumbnail": "",
     "authors": ["varankin-vladimir","bashinsky-pavel"],
     "tags": ["bem-tools","tools"],
-    "categories": [{"name": "tools", "url": "tools"}],
+    "categories": [{"name": "bem/bem tools", "url": "bem/bem-tools"}],
     "translators": ["shirshin-maxim"],
     "url": "/deps-js-syntax/",
-    "type": "articles",
+    "type": "tools",
     "slug": ""
 }
