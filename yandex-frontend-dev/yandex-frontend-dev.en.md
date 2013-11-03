@@ -1008,7 +1008,7 @@ what you've done with CSS before.
 
 Each line in the file refers to a particular block.
 
-##CSS and JavaScript flattening with Borschik
+##CSS and JavaScript flattening with borschik
 
 Don't be confused with an unfamiliar `include` instruction. Of course, we are
 not going to supply a browser with such a strange file but flatten each include.
@@ -1026,7 +1026,7 @@ Here you can see here that including line for the menu turned into the content
 of the file.
 
 You can do such inlining magic automatically with the tool called
-[Borschik](https://github.com/veged/borschik).
+[borschik](https://github.com/veged/borschik).
 
 Besides flattening JavaScript, it does the same with CSS files of imports.
 
@@ -1297,7 +1297,7 @@ So, this is a cool opportunity to touch BEM stack.
 
 Besides, BEM team also produces many very nice development tools.
 
-[Borschik](https://github.com/veged/borschik) has already been introduced.
+[borschik](https://github.com/veged/borschik) has already been introduced.
 
 Also, you might be interested in [CSSO](http://bem.info/tools/csso/), which is
 CSS optimizer unlike others. It does usual minification, but what is more,

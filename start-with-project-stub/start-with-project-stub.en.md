@@ -467,7 +467,7 @@ https://gist.github.com/4177250
 
 Unfortunately, you need to restart `bem server` after changing the configuration.
 Kill the current process and run `make server` again.<br/>
-Maintainers of BEM tools promise to take away this need to restart in future versions.
+Maintainers of bem-tools promise to take away this need to restart in future versions.
 
 ## Mix for blocks and elements
 Having linked the library you can use the `box` block. It could be just a wrapper,

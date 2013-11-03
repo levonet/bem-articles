@@ -1,8 +1,8 @@
 {
-    "title": "Borschik",
+    "title": "borschik",
     "createDate": "22-04-2013",
     "editDate": "04-07-2013",
-    "summary": "Borschik — простой, но мощный сборщик файлов текстовых форматов.",
+    "summary": "borschik — простой, но мощный сборщик файлов текстовых форматов.",
     "thumbnail": "",
     "authors": ["androsov-alexey"],
     "tags": ["tools","borschik"],
