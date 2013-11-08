@@ -158,7 +158,7 @@ blocks.<br/>
 https://gist.github.com/4175640
 
 You can use our [cute BEM
-image](http://toivonen.github.com/online-shop-dummy/desktop.blocks/b-logo/b-logo.png)
+image](http://varya.me/online-shop-dummy/desktop.blocks/b-logo/b-logo.png)
 for the logo, or pick any other image you like :-)
 
 ![Using the block library](http://img-fotki.yandex.ru/get/4119/14441195.26/0_6f0b9_2d1d77a3_XL.jpg "Using the block library")
