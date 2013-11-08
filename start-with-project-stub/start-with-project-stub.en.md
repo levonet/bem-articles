@@ -1,7 +1,7 @@
 # Start developing BEM with project-stub
 
 This article shows you how to develop an [online shop
-web page](http://toivonen.github.com/online-shop-dummy/desktop.bundles/index/index.html)
+web page](http://varya.me/online-shop-dummy/desktop.bundles/index/index.html)
 using BEM principles in CSS, JavaScript and BEMHTML templates. While developing,
 we will use the command-line application: `bem tools` and its subcommand: `bem server`.
 
